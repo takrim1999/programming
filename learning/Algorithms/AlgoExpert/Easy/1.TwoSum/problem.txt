@@ -1,0 +1,2 @@
+array = [3,5,-4,8,11,1,-1,6]
+which two elements of them add up to 10?
